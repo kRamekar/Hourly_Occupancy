@@ -1,12 +1,12 @@
-# 🕒 Hourly Occupancy – Power BI Project
+# Hourly Occupancy – Power BI Project
 
 Welcome to the **Hourly Occupancy** Power BI project! This report provides visual insights into occupancy levels over time, helping stakeholders understand usage patterns and optimize space and resource management.
 
 ## 📊 Project Overview
 
-The **Hourly Occupancy** report analyzes how occupancy changes hour by hour across selected locations or areas. It can help with:
+The **Hourly Occupancy** report analyses how occupancy changes hour by hour across selected locations or areas. It can help with:
 
-- Space utilization tracking
+- Space utilisation tracking
 - Peak hour identification
 - Staffing and operations planning
 - Facility or room-level occupancy trends

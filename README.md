@@ -42,7 +42,7 @@ You are welcome to modify this project for your specific use case:
 
 Feel free to fork this repo and build on top of it!
 
-## 📬 Contact
+## Contact
 
 If you have questions, suggestions, or want to share improvements, feel free to:
 
